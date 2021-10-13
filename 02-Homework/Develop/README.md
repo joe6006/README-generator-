@@ -1,34 +1,24 @@
-const questions = [
-    {
-     Name:'title',
-    type: 'input',
-    Message: 'what is your project title?',
-    },
 
-    {
-    type: 'input',
-    Name: 'description',
-    Message: 'provide a short description of your project.',
-    },
-
-
-   { 
-    type:'input',
-    Name:'Installation',
-    Message:'What are the steps to install your project?',
-   },
-
-   {
-    type:'input',
-    Name:'Usage',
-    Message:'Provide exampsles on how to use the project',
-   },
-
-    {   
-       type:'input',
-       Name: 'Name',
-       Message:'Name of user',
-    },
+  
+  # practice run
+    
+  ## Description
+      
+  this is a README generator created by the terminal
+    
+    
+  ## Installation
+    
+  using npm install to get the node packages then type in node index.js in the terminal
+    
+  ## Usage
+    
+  once you've typed it in node index.js just answer the questions that are prompted 
+    
+  ## Name
+     
+  joe6006
 
 
-];
+    
+  
